@@ -2,7 +2,7 @@
 title: Digital Buffer
 description: >-
   The Buffer Logic Gate
-author: Day Smythe
+author: Day-Smythe
 date: 2026-08-08 10:00:06 +0200
 categories: [Transistors, Logic-Gates]
 tags: [Computers]
@@ -31,6 +31,8 @@ Some digital buffers can also perform logic-level translation, converting one vo
 
 ### Non-inverting buffer
 A non-inverting buffer reproduces the input signal exactly at the output.
+
+
 | Input | Output |
 |----------|----------|
 | 0 | 0 |
@@ -40,6 +42,8 @@ The output is HIGH only when the input is HIGH. This type is used when a signal 
 
 ### Inverting buffer
 An inverting buffer, or inverter (NOT gate), produces the opposite logic level.
+
+
 |  Input | Output |
 |----------|----------|
 | 0 | 1 |
